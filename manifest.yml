@@ -1,0 +1,8 @@
+---
+applications:
+- name: waracle-cake-manager
+  memory: 256M
+  instances: 1
+  host: waracle-cake-manager
+  domain: guides.spring.io
+  path: build/libs/waracle-cake-manager-0.1.0.jar

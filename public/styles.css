@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+th {
+    text-align: left;
+}
+
+h1 {
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 120%;
+}
+p  {
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 100%;
+}
